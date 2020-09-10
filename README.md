@@ -1,4 +1,4 @@
-# Different-ab-testing-approaches
+# Different a/b testing approaches
 ## by Ahmed Tryaq
 
 
